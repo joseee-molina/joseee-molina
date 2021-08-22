@@ -6,6 +6,8 @@
 <br />
 <br />
 <br />
+<br />
+
 
 
 I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my [website]
