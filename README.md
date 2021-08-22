@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[<img align="left" alt="" width="100px" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
-<br />
-<br />
+[<img align="left" alt="" width="100px" display="blocks" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
 
-I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my website[website]
+
+I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my [website]
 
 - 🌱 I’m currently building a few cool data-structures based projects!
 - 👯 I’m looking to collaborate with other programmers
