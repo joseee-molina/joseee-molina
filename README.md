@@ -1,7 +1,6 @@
 ### Hi there! I'm José 👋
 
-[![Website]<img width="22px" src ="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg"> ](https://tavo-molina.github.io/my-website/)
-
+[<img align="left" alt="" width="50px" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
 ## I'm a sophomore at Tsinghua University
 
 - 🌱 I’m currently learning everything 🤣
