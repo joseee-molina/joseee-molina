@@ -1,6 +1,8 @@
 ### Hi there! I'm José 👋
 
-[<img align="left" alt="" width="50px" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
+[<img align="left" alt="" width="100px" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
+<br />
+
 ## I'm a sophomore at Tsinghua University
 
 - 🌱 I’m currently learning everything 🤣
