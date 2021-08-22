@@ -1,6 +1,6 @@
 ### Hi there! I'm José 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tavo-molina.github.io/my-website/)
+[![Website]()](https://tavo-molina.github.io/my-website/)
 
 ## I'm a sophomore at Tsinghua University
 
