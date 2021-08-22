@@ -14,7 +14,7 @@ I'm passionate about programming, math, and making CS education accessible to st
 
 - 🌱 I’m currently building a few cool data-structures based projects!
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021-2022 Goals: get an internship for the summer 2022!
 
 ### Connect with me:
 
