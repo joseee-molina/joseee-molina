@@ -27,7 +27,7 @@ I'm passionate about programming, math, and making CS education accessible to st
 [<img align="left" alt="" width="26px" src="https://live.staticflickr.com/65535/51394796567_f7e5f91f33.jpg" />][website]
 [<img align="left" alt="" width="26px" src="https://live.staticflickr.com/65535/51395822433_e602ed33b0_m.jpg" />][website]
 [<img align="left" alt="" width="26px" src="https://live.staticflickr.com/65535/51395562611_542c4678d4_m.jpg" />][website]
-[<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"" />][website]
+[<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
