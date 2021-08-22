@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img align="left" alt="" width="100px" display="grid" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
+[<img align="left" alt="" width="100px" display="flex" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
 
 
 I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my [website]
