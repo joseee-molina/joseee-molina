@@ -1,15 +1,14 @@
-### Hi there! I'm José 👋
+### Hi there 👋
 
 [<img align="left" alt="" width="100px" src="https://live.staticflickr.com/65535/51393102446_a59431ae79_b.jpg" />][website]
 <br />
 <br />
 
-## I'm a sophomore at Tsinghua University
+I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my website[website]
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently building a few cool data-structures based projects!
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
