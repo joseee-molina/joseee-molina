@@ -16,11 +16,11 @@
 
 
 
-I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my [website]
+I'm currently a Software Engineer at NielsenIQ. I'm passionate about programming, math, and making CS education accessible to students from every background. If you would like to know more about my projects and watch a few cool demos of them, please go to my [website]
 
 - 🌱 I’m currently building a few cool data-structures based projects!
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021-2022 Goals: get an internship for the summer 2022!
+- 🥅 2021-2022 Goals: get into quantitative finance, trading and the computer systems surrounding them!
 
 ### Connect with me:
 
