@@ -21,7 +21,7 @@ I'm passionate about programming, finance, math, and making CS education accessi
 I have not been very active these days, but I plan to add a blog section to my website to write about some challenges that I've faced recently, and the ones that I look forward to facing in the following months and years.
 
 - 🌱 I’m currently learning new tools, including Spring Boot, Angular, and mastering non-relational databases like MongoDB.
-- 🥅 2022-2023 Goals: get into quantitative finance, trading and the computer systems surrounding them! Get an internship at a startup or a tech company, and even secure a full time job after graduation.
+- 🥅 2022-2023 Goals: get into quantitative finance, trading and the computer systems surrounding them! Get an internship at a startup or a tech/finance company, and even secure a full time job after graduation.
 - 😃 Don't hesitate to reach out for questions and/or opportunities.
 
 ### Connect with me:
