@@ -22,7 +22,7 @@ I'm passionate about programming, finance, math, and making CS education accessi
 
 - 🌱 I’m currently learning new tools, including Spring Boot, Angular, and mastering non-relational databases like MongoDB.
 
-- 🥅 2022-2023 Goals: get an internship at a tech startup, a big tech company or a finance company, and secure a full time job after graduation. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS). I will dive deeper into quantitative finance, trading and the computer systems surrounding them. I am learning to play tennis and to dance bachata.
+- 🥅 2022-2023 Goals: get an internship at a tech startup, a big tech company or a finance company, and secure a full-time job after graduation. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS). I will dive deeper into quantitative finance, trading and the computer systems surrounding them. I am learning to play tennis and to dance bachata.
 
 - 😃 Don't hesitate to reach out for questions and/or opportunities.
 
