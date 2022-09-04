@@ -30,7 +30,6 @@ I'm passionate about programming, finance, math, and making CS education accessi
 
 [<img align="left" alt="" width="22px" src="https://live.staticflickr.com/65535/51395859878_2ed8b75bce_m.jpg" />][website]
 [<img align="left" alt="" width="22px" src="https://live.staticflickr.com/65535/51395602091_3df5bc5a6e_m.jpg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://live.staticflickr.com/65535/51396615255_0c61bf2f18_m.jpg" />][facebook]
 
 <br />
 
