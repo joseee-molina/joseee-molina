@@ -17,7 +17,7 @@
 
 
 
-Hello! I'm a student looking for an internship for the summer of 2023. Previously I was a full-time Software Engineer at NielsenIQ. I have interned at Orchata (YCS20) and Hewlett Packard Enterprise. 
+Hello! I'm a student looking for an internship for the summer of 2023. I was a full-time Software Engineer at NielsenIQ. I have interned at Orchata (YCS20) and Hewlett Packard Enterprise. 
 I'm passionate about programming, finance, math, and making CS education accessible to students from every background. If you would like to know more about the projects I worked on in my previous jobs, or my personal projects, please go to my [website]
 
 - 🌱 I’m currently learning new tools, including Spring Boot, Angular, and mastering non-relational databases like MongoDB.
