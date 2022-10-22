@@ -17,14 +17,14 @@
 
 
 
-Hello! I'm a student looking for an internship for the summer of 2023. I was a full-time Software Engineer at NielsenIQ. I have interned at Orchata (YCS20) and Hewlett Packard Enterprise. 
-I'm passionate about programming, finance, math, and making CS education accessible to students from every background. If you would like to know more about the projects I worked on in my previous jobs, or my personal projects, please go to my [website]
+Hello! I'm a CS major at UT Dallas. Currently learning about low-level C programming and systems programming. I was a full-time Software Engineer at NielsenIQ. I have interned at Orchata (YCS20) and at Hewlett Packard Enterprise. 
+I'm passionate about programming, finance, math, and making CS education accessible to students from every background and ethnicity. If you would like to know more about the projects I worked on in my previous jobs, or my personal projects, please go to my [website]
 
-- 🌱 I’m currently learning new tools, including Spring Boot, Angular, AWS and mastering non-relational databases like MongoDB.
+- 🌱 I’m currently learning new tools, including Spring Boot, Angular, AWS and mastering non-relational databases like MongoDB. I am also into tennis 🎾 training, and reading classics!
 
-- 🥅 2022-2023 Goals: get an internship at a tech startup, a big tech company or a finance company, and secure a full-time job after graduation. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS). I will dive deeper into quantitative finance, trading and the computer systems surrounding them. I am learning to play tennis and to dance bachata.
+- 🥅 2022-2023 Goals: get an internship at a tech startup, a big tech company or a finance company, and secure a full-time job after graduation. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS). I will dive deeper into quantitative finance, trading and the computer systems surrounding them. I am learning to to dance bachata.
 
-- 😃 Don't hesitate to reach out for questions and/or opportunities.
+- 🧐 Don't hesitate to reach out for questions and/or opportunities.
 
 ### Connect with me:
 
