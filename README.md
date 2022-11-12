@@ -15,7 +15,7 @@
 <br />
 <br />
 
-
+Striving towards technical excellence.
 
 Hello! I'm a CS major at UT Dallas. Currently learning about low-level C programming and systems programming. I was a full-time Software Engineer at NielsenIQ. I have interned at Orchata (YCS20) and at Hewlett Packard Enterprise. 
 I'm passionate about programming, finance, math, and making CS education accessible to students from every background and ethnicity. If you would like to know more about the projects I worked on in my previous jobs, or my personal projects, please go to my [website]
