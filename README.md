@@ -15,16 +15,19 @@
 <br />
 <br />
 
-Striving towards technical excellence.
+Incoming SDE Intern at Amazon (AWS), Seattle.
+<br />
+Striving towards technical excellence. 
+<br />
 
-Hello! I'm a CS major at UT Dallas. Currently learning about low-level C programming and systems programming. I was a full-time Software Engineer at NielsenIQ. I have interned at Orchata (YCS20) and at Hewlett Packard Enterprise. 
-I'm passionate about programming, finance, math, and making CS education accessible to students from every background and ethnicity. If you would like to know more about the projects I worked on in my previous jobs, or my personal projects, please go to my [website]
+Hello! I'm a CS major at UT Dallas. Currently learning about low-level C programming and systems programming. Before coming to UT Dallas, I was a physics major at Tsinghua University. I have worked as a full-time Software Engineer at NielsenIQ. I have interned at Hewlett Packard Enterprise and at Orchata (YCS20). 
+I'm passionate about programming, math, and making CS education accessible to students from every background and ethnicity. If you would like to know more about the projects I worked on in my previous jobs, or my portfolio, please go to my [website]
 
 - 🌱 I’m currently learning new tools, including Spring Boot, Angular, AWS and mastering non-relational databases like MongoDB. I am also into tennis 🎾 training, and reading classics!
 
-- 🥅 2022-2023 Goals: get an internship at a tech startup, a big tech company or a finance company, and secure a full-time job after graduation. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS). I will dive deeper into quantitative finance, trading and the computer systems surrounding them. I am learning to to dance bachata.
+- 🥅 2022-2023 Goals: secure a full-time job after graduation. Serve back to my community. Apply my knowledge to solve challenging problems in the healthcare and finance issue. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS).
 
-- 🧐 Don't hesitate to reach out for questions and/or opportunities.
+- 🧐 Don't hesitate to reach out.
 
 ### Connect with me:
 
