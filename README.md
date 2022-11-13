@@ -20,6 +20,7 @@ Incoming SDE Intern at Amazon (AWS), Seattle.
 
 Striving towards technical excellence. 
 <br />
+
 Hello! I'm a CS major at UT Dallas. Currently learning about low-level C programming and systems programming. Before coming to UT Dallas, I was a physics major at Tsinghua University. I have worked as a full-time Software Engineer at NielsenIQ. I have interned at Hewlett Packard Enterprise and at Orchata (YCS20). 
 I'm passionate about programming, math, and making CS education accessible to students from every background and ethnicity. If you would like to know more about the projects I worked on in my previous jobs, or my portfolio, please go to my [website]
 
