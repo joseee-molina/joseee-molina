@@ -26,7 +26,7 @@ I'm passionate about programming, math, and making CS education accessible to st
 
 - 🌱 I’m currently learning new tools, including Spring Boot, Angular, AWS and mastering non-relational databases like MongoDB. I am also into tennis 🎾 training, and reading classics!
 
-- 🥅 2022-2023 Goals: secure a full-time job after graduation. Serve back to my community. Apply my knowledge to solve challenging problems in the healthcare and finance issue. Sharpen my Software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS).
+- 🥅 2022-2023 Goals: secure a full-time job after graduation. Serve back to my community. Apply the knowledge that I have acquired to solve challenging problems in the healthcare and finance area. Sharpen my software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS).
 
 - 🧐 Don't hesitate to reach out.
 
