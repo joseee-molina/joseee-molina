@@ -69,5 +69,4 @@ I'm passionate about programming, math, and making CS education accessible to st
 </details>
 
 [website]: https://tavo-molina.github.io/my-website/
-[facebook]: https://www.facebook.com/lito.gonzalez.904
 [linkedin]: https://www.linkedin.com/in/octavio12/
