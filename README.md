@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Incoming SDE Intern at Amazon (AWS), Seattle.
+ SDE Intern at AWS Lambda
 <br />
 
 Striving towards technical excellence. 
