@@ -63,10 +63,10 @@ I'm passionate about programming, math, and making CS education accessible to st
 <br />
 <br />
 
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavo-molina&theme=dark&show_icons=true)
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseee-molina&theme=dark&show_icons=true)
 
 
 </details>
 
-[website]: https://tavo-molina.github.io/my-website/
+[website]: https://joseee-molina.github.io/my-website/
 [linkedin]: https://www.linkedin.com/in/octavio12/
