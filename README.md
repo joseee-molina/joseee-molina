@@ -22,7 +22,7 @@ Hello! I'm a CS senior at UT Dallas. This summer I worked at Amazon as an SDE in
 
 <br />
 Before coming to UT Dallas, I was a physics major at Tsinghua University.
-If you would like to know more about the projects I worked on in my previous experiences, or my portfolio, please go to my [website](https://joseee-molina.github.io/my-website/)
+If you would like to know more about the projects I worked on in my previous experiences, or my portfolio, please go to my [website].
 
 - 🌱 I’m currently working as a Mentor at the Computer Science Mentor Center at UT Dallas, leading the Algorithmic Computing Club, and learning about ML/AI.
 
