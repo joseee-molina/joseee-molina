@@ -15,18 +15,16 @@
 <br />
 <br />
 
- SDE Intern at AWS Lambda
-<br />
-
 Striving towards technical excellence. 
 <br />
 
-Hello! I'm a CS major at UT Dallas. Currently learning about low-level C programming and systems programming. Before coming to UT Dallas, I was a physics major at Tsinghua University. I have worked as a full-time Software Engineer at NielsenIQ. I have interned at Hewlett Packard Enterprise and at Orchata (YCS20). 
-I'm passionate about programming, math, and making CS education accessible to students from every background and ethnicity. If you would like to know more about the projects I worked on in my previous jobs, or my portfolio, please go to my [website]
+Hello! I'm a CS senior at UT Dallas. This summer I worked at Amazon as an SDE intern, in the AWS Lambda team. If you would like to read more about my intern project, here's the [launch announcement page!](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-console-single-pane-metrics-logs-traces/). Next year, I will be coming back to AWS as a full time SDE.
 
-- 🌱 I’m currently learning new tools, including Spring Boot, Angular, AWS and mastering non-relational databases like MongoDB. I am also into tennis 🎾, and reading classics!
+<br />
+Before coming to UT Dallas, I was a physics major at Tsinghua University.
+If you would like to know more about the projects I worked on in my previous experiences, or my portfolio, please go to my [website](https://joseee-molina.github.io/my-website/)
 
-- 🥅 2022-2023 Goals: secure a full-time job after graduation. Serve back to my community. Apply the knowledge that I have acquired to solve challenging problems in the healthcare and finance area. Sharpen my software skills (I'm currently learning cloud-based microservice development and its integration with Angular, Azure and AWS).
+- 🌱 I’m currently working as a Mentor at the Computer Science Mentor Center at UT Dallas, leading the Algorithmic Computing Club, and learning about ML/AI.
 
 - 🧐 Don't hesitate to reach out.
 
