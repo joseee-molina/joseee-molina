@@ -20,7 +20,6 @@ Striving towards technical excellence.
 
 Hello! I'm a CS senior at UT Dallas. This summer I worked at Amazon as an SDE intern, in the AWS Lambda team. If you would like to read more about my intern project, here's the [launch announcement page!](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-console-single-pane-metrics-logs-traces/). Next year, I will be coming back to AWS as a full time SDE.
 
-<br />
 Before coming to UT Dallas, I was a physics major at Tsinghua University.
 If you would like to know more about the projects I worked on in my previous experiences, or my portfolio, please go to my [website].
 
