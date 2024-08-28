@@ -19,7 +19,6 @@ Striving towards technical excellence.
 <br />
 
 Hello! I'm a Software Development Engineer at AWS Elastic Block Store, working in distributed systems.
-
 <br />
 I graduated with Honors from UT Dallas with a Bachelor's in Computer Science. 
 <br />
