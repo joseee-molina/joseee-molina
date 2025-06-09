@@ -32,7 +32,7 @@ Last summer (2023) I worked at Amazon as an SDE intern, in the AWS Lambda team. 
 Before coming to UT Dallas, I was a physics major at Tsinghua University.
 If you would like to know more about the projects I worked on in my previous experiences, or my portfolio, please go to my [website].
 
-- 🌱 I’m currently working as a Mentor at the Computer Science Mentor Center at UT Dallas, leading the Algorithmic Computing Club, and learning about ML/AI.
+- 🌱 I worked as a Mentor at the Computer Science Mentor Center at UT Dallas, leading the Algorithmic Computing Club, and learning about ML/AI.
 
 - 🧐 Don't hesitate to reach out.
 
