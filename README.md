@@ -18,7 +18,12 @@
 Striving towards technical excellence. 
 <br />
 
-Hello! I'm a Software Development Engineer at AWS Elastic Block Store, working in EBS Snapshots and distributed storage for EC2 Instances.
+Hi there!
+<br />
+I am a Sofware Engineer at Snowflake, on the FDB Team.
+<br />
+
+Previously, I was a Software Development Engineer at AWS Elastic Block Store, working in EBS Snapshots and distributed storage for EC2 Instances.
 <br />
 I graduated with Honors from UT Dallas with a Bachelor's in Computer Science. 
 <br />
